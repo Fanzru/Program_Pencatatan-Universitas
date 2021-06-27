@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1587788149 source:d:\std\tubes-1301194175\body.cpp
+	"adt.h"
+	<iostream>
+
+1587785900 d:\std\tubes-1301194175\adt.h
+	<iostream>
+
+1587786108 source:d:\std\tubes-1301194175\main.cpp
+	<windows.h>
+	<iostream>
+	<string>
+	"adt.h"
+
